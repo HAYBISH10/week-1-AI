@@ -1,33 +1,25 @@
-# week-1-AI
-# 🚀 CryptoBuddy: AI-Powered Cryptocurrency Advisor Chatbot  
+# 📚 Mini E-Learning Platform
 
-**Theme:** Your First AI-Powered Financial Sidekick! 🌟  
-
-CryptoBuddy is a **rule-based chatbot** that analyzes cryptocurrency data and provides simple investment advice based on:  
-- **Profitability** (price trends, market cap)  
-- **Sustainability** (energy efficiency, eco score)  
+A simple prototype of an e-learning platform built using **HTML, CSS, and JavaScript**.  
+This project is front-end only and does not require a backend or database — course data is stored in a JavaScript object, and progress is saved in **localStorage**.
 
 ---
 
-## ✅ Features
-- Ask about **sustainability** → recommends eco-friendly coins 🌱  
-- Ask about **trends/growth** → shows rising coins 📈  
-- Ask about **long-term investments** → suggests strong sustainable coins 🚀  
-- Friendly chatbot personality 🤖  
-- Includes **risk disclaimer**  
+## 🚀 Features
+- **Home Page** with a list of available courses
+- **Course Detail Page** displaying lessons
+- **Progress Tracking** with completion status for each lesson
+- **Mark as Completed** button for lessons
+- **Local Storage** support to save progress even after refresh
+- **Clean UI** with card design and hover effects
 
 ---
 
-## 📂 Dataset
-Sample coins:
-- Bitcoin (rising, high market cap, low sustainability)  
-- Ethereum (stable, medium sustainability)  
-- Cardano (rising, eco-friendly, long-term growth potential)  
+## 🛠️ Tech Stack
+- **HTML5** for structure  
+- **CSS3** for styling and hover effects  
+- **JavaScript (Vanilla)** for interactivity and state management  
 
 ---
 
-## ▶️ How to Run
-1. Clone repo:
-   ```bash
-   git clone https://github.com/your-username/crypto-advisor-bot.git
-   cd crypto-advisor-bot
+## 📂 Project Structure
